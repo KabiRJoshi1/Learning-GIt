@@ -1,3 +1,4 @@
 # Learning-GIt
-Still learning git lets try my best 
+Still learning git lets try my best.
+<br>
 Author- Kabi Raj Joshi
